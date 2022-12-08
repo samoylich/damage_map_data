@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://rion-energie.ch/</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://rion-energie.de/</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://rion-energie.ch/en/hpfcelEctricity</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rion-energie.ch/en/portfolioManagement</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rion-energie.ch/en/profileRollOut</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+    <url>
+  <loc>https://rion-energie.ch/de/hpfcelEctricity</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rion-energie.ch/de/portfolioManagement</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rion-energie.ch/de/profileRollOut</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>    <url>
+  <loc>https://rion-energie.ch/fr/hpfcelEctricity</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rion-energie.ch/fr/portfolioManagement</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rion-energie.ch/fr/profileRollOut</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rion-energie.ch/imprint</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+    <url>
+  <loc>https://rion-energie.ch/privacy</loc>
+  <lastmod>2022-12-08T10:53:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
